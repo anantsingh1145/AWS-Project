@@ -16,9 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; width: 300px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=anantsingh1145&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src='[https://randommeme-five.vercel.app/](https://img.ifunny.co/images/0fd1aade8315341561b6becb615eab2455e955bf5f0ef775d034cfc2b047f4f7_1.jpg)' style="height: 400px; width: 300px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
