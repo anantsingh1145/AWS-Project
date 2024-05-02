@@ -18,7 +18,6 @@
 ### 😂 Random Dev Meme
 <img src='[https://randommeme-five.vercel.app/](https://i.imgflip.com/83ang7.jpg)' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=anantsingh1145&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
