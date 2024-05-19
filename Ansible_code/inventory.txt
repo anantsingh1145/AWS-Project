@@ -1,0 +1,4 @@
+[instance_groups]
+instance1 ansible_host=3.87.240.218 ansible_user=ubuntu ansible_ssh_private_key_file=/home/anantsingh/s3-ansible-playbook/my-s3-key.pem
+instance2 ansible_host=52.87.175.129 ansible_user=ubuntu ansible_ssh_private_key_file=/home/anantsingh/s3-ansible-playbook/my-s3-key.pem
+instance3 ansible_host=54.80.63.199 ansible_user=ubuntu ansible_ssh_private_key_file=/home/anantsingh/s3-ansible-playbook/my-s3-key.pem

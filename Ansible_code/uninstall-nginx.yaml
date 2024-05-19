@@ -1,0 +1,16 @@
+---
+- name: Uninstall Nginx
+  hosts: all
+  become: True  # This allows the tasks to run with sudo privileges
+            
+  tasks:
+    - name: Stop Nginx service
+      service:
+        name: nginx
+        state: stopped
+                    
+    - name: Remove Nginx package
+      package:
+        name: nginx
+        state: absent
+
